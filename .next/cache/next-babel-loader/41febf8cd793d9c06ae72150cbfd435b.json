@@ -1,0 +1,1 @@
+{"ast":null,"code":"module.exports = {\n  API: 'http://localhost:8000/api/v1'\n};","map":{"version":3,"sources":["/var/local/next-struc/config.js"],"names":["module","exports","API"],"mappings":"AAAAA,MAAM,CAACC,OAAP,GAAiB;AACbC,EAAAA,GAAG,EAAE;AADQ,CAAjB","sourcesContent":["module.exports = {\n    API: 'http://localhost:8000/api/v1',\n};"]},"metadata":{},"sourceType":"script"}

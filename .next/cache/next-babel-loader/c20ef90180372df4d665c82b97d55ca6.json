@@ -1,0 +1,1 @@
+{"ast":null,"code":"module.exports = {\n  API: 'http://localhost:3000/api/'\n};","map":{"version":3,"sources":["D:/React/next-struc/config.js"],"names":["module","exports","API"],"mappings":"AAAAA,MAAM,CAACC,OAAP,GAAiB;AACbC,EAAAA,GAAG,EAAE;AADQ,CAAjB","sourcesContent":["module.exports = {\n    API: 'http://localhost:3000/api/',\n};"]},"metadata":{},"sourceType":"script"}
